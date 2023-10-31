@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm K Pranavarul</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
+<h3 align="center">Pranavarul K M.Sc Software Systems, 3rd Year Coimbatore Institute of Technology, Coimbatore As a dedicated and driven third-year M.Sc Software Systems student at the esteemed Coimbatore Institute of Technology, I am committed to leveraging my academic knowledge, practical skills, and passion for technology to contribute effectively to the ever-evolving field of software development. With a strong foundation in software engineering and a thirst for continuous learning, I am poised to make a meaningful impact in the world of software systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavarul-k&label=Profile%20views&color=0e75b6&style=flat" alt="pranavarul-k" /> </p>
-
 
 - 📫 How to reach me **pranavarul192003@gmail.com**
 
