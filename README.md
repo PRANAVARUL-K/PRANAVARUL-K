@@ -1,4 +1,8 @@
-<h3>Pranavarul K</h3><br> 
+
+
+
+<h3>Pranavarul K</h3>
+<br> 
 <h2>M.Sc Software Systems<br>3rd Year Coimbatore Institute of Technology<br> Coimbatore</h2> 
 <p>As a dedicated and driven third-year M.Sc Software Systems student at the esteemed Coimbatore Institute of Technology, I am committed to leveraging my academic knowledge, practical skills, and passion for technology to contribute effectively to the ever-evolving field of software development. With a strong foundation in software engineering and a thirst for continuous learning, I am poised to make a meaningful impact in the world of software systems.</p>
 
