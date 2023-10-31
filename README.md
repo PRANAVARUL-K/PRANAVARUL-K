@@ -1,14 +1,9 @@
-<div align="center">
-<img src="https://drive.google.com/file/d/1umz_WZKvKb36qom1wnwQ8ob527DvdUv_/view?usp=drive_link" />
-</div>  
-  
+![Design and Develoopment](https://github.com/PRANAVARUL-K/PRANAVARUL-K/blob/main/Banner1.jpg)
 <p>
   <h1>K Pranavarul  </h1>
   <h2>3rd Year Coimbatore Institute of Technology</h2>
   <h3>Coimbatore </h3>
 </p>
-  
-
 As a dedicated and driven third-year M.Sc Software Systems student at the esteemed Coimbatore Institute of Technology, I am committed to leveraging my academic knowledge, practical skills, and passion for technology to contribute effectively to the ever-evolving field of software development. With a strong foundation in software engineering and a thirst for continuous learning, I am poised to make a meaningful impact in the world of software systems.  
   
 
