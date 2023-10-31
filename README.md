@@ -52,6 +52,7 @@ As a dedicated and driven third-year M.Sc Software Systems student at the esteem
 </div>
 
 </td></tr></table> 
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/PRANAVARUL-K" target="_blank">
@@ -64,6 +65,7 @@ As a dedicated and driven third-year M.Sc Software Systems student at the esteem
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div> 
+
 ## Github Stats  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=PRANAVARUL-K&&style=flat-square" align="center" />
