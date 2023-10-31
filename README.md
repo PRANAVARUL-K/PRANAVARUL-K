@@ -1,9 +1,10 @@
+![logo](https://komarev.com/ghpvc/?username=pranavarul-k&label=Profile%20views&color=0e75b6&style=flat" alt="pranavarul-k)
 <body>
 <h2>Pranavarul K</h2>
 <h3>M.Sc Software Systems<br>3rd Year Coimbatore Institute of Technology<br> Coimbatore</h3> 
 <p>As a dedicated and driven third-year M.Sc Software Systems student at the esteemed Coimbatore Institute of Technology, I am committed to leveraging my academic knowledge, practical skills, and passion for technology to contribute effectively to the ever-evolving field of software development. With a strong foundation in software engineering and a thirst for continuous learning, I am poised to make a meaningful impact in the world of software systems.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavarul-k&label=Profile%20views&color=0e75b6&style=flat" alt="pranavarul-k" /> </p>
+<p align="left">  </p>
 <img src = "https://github.com/PRANAVARUL-K/PRANAVARUL-K/blob/main/Banner.png">
 - 📫 How to reach me **pranavarul192003@gmail.com**
 
