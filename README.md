@@ -1,4 +1,4 @@
-|[logo](https://komarev.com/ghpvc/?username=pranavarul-k&label=Profile%20views&color=0e75b6&style=flat" alt="pranavarul-k)
+![logo](https://github.com/PRANAVARUL-K/PRANAVARUL-K/blob/main/Banner.png)
 <body>
 <h2>Pranavarul K</h2>
 <h3>M.Sc Software Systems<br>3rd Year Coimbatore Institute of Technology<br> Coimbatore</h3> 
