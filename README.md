@@ -64,6 +64,12 @@ As a dedicated and driven third-year M.Sc Software Systems student at the esteem
 <a href="https://instagram.com/https://www.instagram.com/_.pranav.19/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+  <a href="https://leetcode.com/YourLeetCodeUsername">
+  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" style="margin-bottom: 5px;" />
+</a>
+  <a href="https://www.hackerrank.com/profile/pikkaboo">
+  <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?&style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" style="margin-bottom: 5px;" />
+</a>
 </div> 
 
 ## Github Stats  
