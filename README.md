@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/PRANAVARUL-K/PRANAVARUL-K/blob/main/Banner.png" align="center" style="width: 100%" />
+<img src="https://github.com/PRANAVARUL-K/PRANAVARUL-K/blob/main/Banner1.png" align="center" style="width: 100%" />
 </div>  
   
 <p>
