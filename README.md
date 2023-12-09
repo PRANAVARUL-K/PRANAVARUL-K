@@ -1,4 +1,4 @@
-![Design and Develoopment](https://github.com/PRANAVARUL-K/PRANAVARUL-K/blob/main/Banner1.jpg)
+![My Image](https://github.com/PRANAVARUL-K/PRANAVARUL-K/blob/main/Banner1.jpg)
 <p>
   <h1>K Pranavarul  </h1>
   <h2>3rd Year Coimbatore Institute of Technology</h2>
